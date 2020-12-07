@@ -1133,9 +1133,9 @@
     long-timeout "^0.1.1"
     uuid "^8.3.0"
 
-"@feathersjs/commons@^4.3.0", "@feathersjs/commons@^4.5.10", "@feathersjs/commons@^4.5.8", "@feathersjs/commons@^4.5.9":
-  version "4.5.10"
-  resolved "https://registry.yarnpkg.com/@feathersjs/commons/-/commons-4.5.10.tgz#e2dc526ce44f8e32c88fbb7bc3b89670e2781622"
+"@feathersjs/commons@^4.3.0", "@feathersjs/commons@^4.5.10", "@feathersjs/commons@^4.5.11", "@feathersjs/commons@^4.5.8", "@feathersjs/commons@^4.5.9":
+  version "4.5.11"
+  resolved "https://registry.yarnpkg.com/@feathersjs/commons/-/commons-4.5.11.tgz#4c9d04e6996b823981b714312f7915c4469f0ffd"
 
 "@feathersjs/configuration@4.5.9":
   version "4.5.9"
@@ -1163,12 +1163,12 @@
     lodash "^4.17.20"
     uberproto "^2.0.6"
 
-"@feathersjs/feathers@4.5.9", "@feathersjs/feathers@^4.5.8", "@feathersjs/feathers@^4.5.9":
-  version "4.5.9"
-  resolved "https://registry.yarnpkg.com/@feathersjs/feathers/-/feathers-4.5.9.tgz#73ba6d51f7b15c4eb35ceb925f936e5edab4cede"
+"@feathersjs/feathers@4.5.11", "@feathersjs/feathers@^4.5.8", "@feathersjs/feathers@^4.5.9":
+  version "4.5.11"
+  resolved "https://registry.yarnpkg.com/@feathersjs/feathers/-/feathers-4.5.11.tgz#98999fe3857896bd15a676d4660dd92fe22481c4"
   dependencies:
-    "@feathersjs/commons" "^4.5.9"
-    debug "^4.2.0"
+    "@feathersjs/commons" "^4.5.11"
+    debug "^4.3.1"
     events "^3.2.0"
     uberproto "^2.0.6"
 
@@ -4219,7 +4219,7 @@ debug@^3.1.1, debug@^3.2.5, debug@^3.2.6:
   dependencies:
     ms "^2.1.1"
 
-debug@^4.0.0, debug@^4.0.1, debug@^4.1.0, debug@^4.1.1, debug@^4.2.0:
+debug@^4.0.0, debug@^4.0.1, debug@^4.1.0, debug@^4.1.1, debug@^4.2.0, debug@^4.3.1:
   version "4.3.1"
   resolved "https://registry.yarnpkg.com/debug/-/debug-4.3.1.tgz#f0d229c505e0c6d8c49ac553d1b13dc183f6b2ee"
   dependencies:
